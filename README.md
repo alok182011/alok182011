@@ -1,3 +1,5 @@
+![image](https://github.com/alok182011/alok182011/blob/main/githubreadme.png?raw=true)
+
 ### Hi there this is Alok 👋
 
 - 🔭 I’m currently working as an Associate Software Engineer.
