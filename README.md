@@ -1,8 +1,8 @@
-![image](https://github.com/alok182011/alok182011/blob/main/githubreadme.png?raw=true)
+
 
 ### Hi there this is Alok 👋
 
-- 🔭 I’m currently working as an Associate Software Engineer.
+- 🔭 I’m currently working as an Software Engineer.
 - 🌱 I’m currently learning Next.JS and Fastify 
 - 👯 I’m looking to collaborate on any Full-Stack App (MERN preferably)
 - 💬 Ask me about JS, React, Web Dev, Mental Health etc.
