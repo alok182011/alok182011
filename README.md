@@ -3,7 +3,7 @@
 ### Hi there this is Alok 👋
 
 - 🔭 I’m currently working as an Software Engineer.
-- 🌱 I’m currently learning ThreeJS and System Design 
+- 🌱 I’m currently learning ThreeJS 
 - 👯 I’m looking to collaborate on any Full-Stack App (MERN preferably)
 - 💬 Ask me about JS, React, Web Dev, Mental Health etc.
 - 📫 How to reach me:  [Twitter - 🐦](https://twitter.com/thecoollearner) , [Mail - 📧](alokkola21@gmail.com) 
